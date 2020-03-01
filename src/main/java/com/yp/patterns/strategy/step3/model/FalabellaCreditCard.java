@@ -1,8 +1,8 @@
 package com.yp.patterns.strategy.step3.model;
 
-public class FalabelaCreditCard extends CreditCard {
+public class FalabellaCreditCard extends CreditCard {
 
-    public FalabelaCreditCard(String number) {
+    public FalabellaCreditCard(String number) {
         super(number);
     }
 

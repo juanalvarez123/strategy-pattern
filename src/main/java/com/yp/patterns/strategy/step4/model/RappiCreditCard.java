@@ -9,7 +9,7 @@ public class RappiCreditCard extends CreditCard implements IProcessCreditCard {
     }
 
     /**
-     * RappiCreditCard bin number is the 4 first numbers
+     * RappiCreditCard BIN number is the 4 first numbers
      */
     @Override
     public String getBin() {

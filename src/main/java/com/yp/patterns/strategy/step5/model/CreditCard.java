@@ -12,7 +12,7 @@ public abstract class CreditCard {
     }
 
     /**
-     * Default bin numbr is the first 6 numbers
+     * Default BIN number is the first 6 numbers
      */
     public String getBin() {
         return number.substring(0, 6);
